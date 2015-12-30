@@ -19,7 +19,9 @@ else
     # SiNo presiono espacio
 fi
 
-
+#http://huezo.github.io/script_ubuntu/
+#https://huezohuezo1990.wordpress.com/script_ubuntu/
+#https://huezohuezo1990.wordpress.com/
 
 #con esto hacemos que no se cierre
 #la terminal poniendo read 
