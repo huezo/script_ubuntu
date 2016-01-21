@@ -8,6 +8,7 @@
 
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get update && sudo apt-get upgrade
+sudo apt-get dist-upgrade
 
 #esto me sirve para hacer un
 #Read Key con la cual no se me cerrara la terminal
